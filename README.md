@@ -9,5 +9,5 @@ O que tem nos arquivos?
 - Exemplos de atribuição, comparação, operadores aritiméticos, operadores lógicos;
 - Vetores e objetos: Com exemplos de array e function;
 - Exemplos de struturas condicionais como if, else, ninho de if, if(else if, else) ternário;
-- Uso e exemplos de switch/case, laços derepetição (for, for/in, for/of, while, do/while);
+- Uso e exemplos de switch/case, laços de repetição (for, for/in, for/of, while, do/while);
 - Projeto final: Criação de uma calculadora.
